@@ -8,7 +8,6 @@
 - Retrofit.
 - Hilt.
 - Flow.
-- 
 <img src="https://github.com/kiselyv77/CovidDataApp/blob/master/Screenshots/SearchList.jpg" width="30%" height="30%" align="left" />
 <img src="https://github.com/kiselyv77/CovidDataApp/blob/master/Screenshots/DetailScreen.jpg" width="30%" height="30%" align="left" />
 
